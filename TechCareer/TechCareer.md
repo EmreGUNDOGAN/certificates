@@ -2,10 +2,10 @@
 
   # Frontend Bootcamp
   
-  [![](./TechCareer/images/frontend-bootcamp.png)](https://certificates.techcareer.net/tr/verify/32649492282912?ref=email)
+  [![Frontend Bootcamp](./images/frontend-bootcamp.png)](https://certificates.techcareer.net/tr/verify/32649492282912?ref=email)
 
   # SEO Bootcamp
   
-  [![](./TechCareer/images/seo-bootcamp.png)](https://certificates.techcareer.net/tr/verify/90503108354193?ref=email)
+  [![SEO Bootcamp](./images/seo-bootcamp.png)](https://certificates.techcareer.net/tr/verify/90503108354193?ref=email)
 
 </div>
