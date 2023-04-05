@@ -2,6 +2,10 @@
 
   # Responsive Web Design
   
+  [![The Frontend Career Path](./images/frontend-career-path.png)](https://scrimba.com/certificate/u2En6dSN/gfrontend)
+
+  # Responsive Web Design
+  
   [![Responsive Web Design](./images/responsive-web-design.png)](https://scrimba.com/certificate/u2En6dSN/gresponsive)
 
   # JavaScript Deep Dive
